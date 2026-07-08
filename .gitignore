@@ -1,0 +1,13 @@
+# Grade files
+.gradle
+build
+.project
+.settings
+.classpath
+.idea
+out
+.DS_Store
+amadeus-java.iml
+Bin/
+.vscode/
+.env
